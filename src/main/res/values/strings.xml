@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyApplication</string>
+    <string name="app_name">My Bus</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="API_KEY">AIzaSyA3167g-cn41FFqOQY3Pfx3mMLB3Y2uf0E</string>
     <!-- TODO: Remove or change this placeholder text -->
