@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="API_KEY">AIzaSyA3167g-cn41FFqOQY3Pfx3mMLB3Y2uf0E</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password">Enter your Password</string>
+    <string name="email"> Enter your Email</string>
+    <string name="username">Enter your username</string>
+    <string name="alh">Aleardy have an account?</string>
+
+    <string name="forgot_password_msg">Don\'t worry! it happens.
+Please enter the email address associated with your account.</string>
+    <string name="on_submit_msg">Check out your mailbox, you will receive an email containing link where you can reset your password</string>
+    <string name="notification">Enable Notifications</string>
+    <string name="N_101">
+ Stations:\n
+قصر البزائم
+- المعمورة
+- 252 سكن
+- 400 سكن
+- بيولوجيا
+- القطب الجديد
+ \n
+Time :\n
+        7:30 to 17:30
+</string>
+    <string name="N_23">
+قصر البزائم
+المعمورة
+252 سكن
+400 سكن
+بيولوجيا
+ القطب الجديد </string>
+    <string name="N_10">
+قصر البزائم
+المعمورة
+252 سكن
+400 سكن
+بيولوجيا
+ القطب الجديد </string>
+    <string name="N_11">
+قصر البزائم
+المعمورة
+252 سكن
+400 سكن
+بيولوجيا
+ القطب الجديد </string>
+
+</resources>
